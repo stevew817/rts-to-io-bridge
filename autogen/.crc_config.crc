@@ -1,0 +1,26 @@
+#CRC Codes for initially generated config files -- do not modify!
+#Wed Mar 24 17:07:12 CET 2021
+sl_device_init_lfxo_config.h=-720010014
+sl_iostream_vuart_config.h=-715824966
+sl_simple_button_btn0_config.h=2019766515
+sl_mx25_flash_shutdown_usart_config.h=330822538
+rail/radio_settings.radioconf=-1974577477
+sl_device_init_hfxo_config.h=1623657067
+sl_iostream_usart_vcom_config.h=1461939972
+nvm3_default_config.h=1109545002
+SEGGER_RTT_Conf.h=-1006190168
+rail/long_range_profile.restriction=-354387922
+sl_rail_util_init_inst0_config.h=2080623679
+sl_device_init_dcdc_config.h=540536968
+rail/base_profile.restriction=480749360
+sl_device_init_emu_config.h=1414330218
+sl_rail_util_pa_config.h=-2124455455
+sl_rail_util_rssi_config.h=-1255858871
+sl_rail_util_pti_config.h=-218655652
+sl_rail_util_protocol_config.h=-787874093
+sl_debug_swo_config.h=-1718158079
+sl_board_control_config.h=-1367351569
+sl_memory_config.h=-995392215
+sl_simple_button_config.h=807681233
+sl_simple_button_btn1_config.h=144580885
+sl_flex_assert_config.h=1880955745

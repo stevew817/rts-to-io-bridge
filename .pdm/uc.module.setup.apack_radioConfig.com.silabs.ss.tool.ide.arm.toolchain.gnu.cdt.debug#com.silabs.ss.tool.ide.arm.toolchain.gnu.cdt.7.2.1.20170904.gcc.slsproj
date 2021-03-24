@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="uc.module.setup.apack_radioConfig.com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt.debug#com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt:7.2.1.20170904.gcc" propertyScope="project">
+  <folder name="autogen">
+    <file name="rail_config.c" builtin="true" generated="true" uri="studio:/project/autogen/rail_config.c"/>
+    <file name="results.json" builtin="true" generated="true" uri="studio:/project/autogen/results.json"/>
+    <file name="rail_config.h" builtin="true" generated="true" uri="studio:/project/autogen/rail_config.h"/>
+  </folder>
+  <includePath uri="studio:/project/autogen"/>
+</project>

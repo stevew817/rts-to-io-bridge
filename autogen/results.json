@@ -1,0 +1,1 @@
+[{"channel_name": "Protocol_Configuration-Channel_Group_1", "result_code": "0", "error_message": "", "logs": [{"type": "warning", "message": "OOK RX is only supported for preamble lengths greater than or equal to 8 bits"}]}]

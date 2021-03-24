@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="uc.module.setup.componentSetup.com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt.debug#com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt:7.2.1.20170904.gcc" propertyScope="project">
+  <folder name="gecko_sdk_3.1.1">
+    <folder name="platform">
+      <folder name="common">
+        <folder name="toolchain">
+          <folder name="src">
+            <file name="sl_memory.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/toolchain/src/sl_memory.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_memory_region.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/toolchain/inc/sl_memory_region.h"/>
+            <file name="sl_memory.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/toolchain/inc/sl_memory.h"/>
+            <file name="sl_gcc_preinclude.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/toolchain/inc/sl_gcc_preinclude.h"/>
+          </folder>
+        </folder>
+        <folder name="inc">
+          <file name="sl_enum.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/inc/sl_enum.h"/>
+          <file name="sl_atomic.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/inc/sl_atomic.h"/>
+          <file name="sl_status.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/common/inc/sl_status.h"/>
+        </folder>
+      </folder>
+      <folder name="service">
+        <folder name="iostream">
+          <folder name="src">
+            <file name="sl_iostream_retarget_stdio.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/src/sl_iostream_retarget_stdio.c"/>
+            <file name="sl_iostream.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/src/sl_iostream.c"/>
+            <file name="sl_iostream_usart.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/src/sl_iostream_usart.c"/>
+            <file name="sl_iostream_uart.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/src/sl_iostream_uart.c"/>
+            <file name="sl_iostream_stdlib_config.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/src/sl_iostream_stdlib_config.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_iostream.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/inc/sl_iostream.h"/>
+            <file name="sl_iostream_usart.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/inc/sl_iostream_usart.h"/>
+            <file name="sl_iostream_uart.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/inc/sl_iostream_uart.h"/>
+            <file name="sli_iostream_uart.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/inc/sli_iostream_uart.h"/>
+            <file name="sl_iostream_stdlib_config.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/iostream/inc/sl_iostream_stdlib_config.h"/>
+          </folder>
+        </folder>
+        <folder name="device_init">
+          <folder name="src">
+            <file name="sl_device_init_dcdc_s1.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_dcdc_s1.c"/>
+            <file name="sl_device_init_lfxo_s1.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_lfxo_s1.c"/>
+            <file name="sl_device_init_nvic.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_nvic.c"/>
+            <file name="sl_device_init_emu_s1.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_emu_s1.c"/>
+            <file name="sl_device_init_hfxo_s1.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/src/sl_device_init_hfxo_s1.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_device_init_dcdc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_dcdc.h"/>
+            <file name="sl_device_init_lfxo.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_lfxo.h"/>
+            <file name="sl_device_init_clocks.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_clocks.h"/>
+            <file name="sl_device_init_nvic.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_nvic.h"/>
+            <file name="sl_device_init_emu.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_emu.h"/>
+            <file name="sl_device_init_hfxo.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/device_init/inc/sl_device_init_hfxo.h"/>
+          </folder>
+        </folder>
+        <folder name="mpu">
+          <folder name="src">
+            <file name="sl_mpu.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/mpu/src/sl_mpu.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_mpu.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/mpu/inc/sl_mpu.h"/>
+          </folder>
+        </folder>
+        <folder name="system">
+          <folder name="src">
+            <file name="sl_system_process_action.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/system/src/sl_system_process_action.c"/>
+            <file name="sl_system_init.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/system/src/sl_system_init.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_system_process_action.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/system/inc/sl_system_process_action.h"/>
+            <file name="sl_system_init.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/system/inc/sl_system_init.h"/>
+          </folder>
+        </folder>
+        <folder name="udelay">
+          <folder name="src">
+            <file name="sl_udelay.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/udelay/src/sl_udelay.c"/>
+            <file name="sl_udelay_armv6m_gcc.S" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/udelay/src/sl_udelay_armv6m_gcc.S"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_udelay.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/service/udelay/inc/sl_udelay.h"/>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="emdrv">
+        <folder name="nvm3">
+          <folder name="src">
+            <file name="nvm3_hal_flash.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/nvm3/src/nvm3_hal_flash.c"/>
+            <file name="nvm3_lock.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/nvm3/src/nvm3_lock.c"/>
+            <file name="nvm3_default_common_linker.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/nvm3/src/nvm3_default_common_linker.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="nvm3.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/nvm3/inc/nvm3.h"/>
+            <file name="nvm3_hal.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/nvm3/inc/nvm3_hal.h"/>
+            <file name="nvm3_hal_flash.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/nvm3/inc/nvm3_hal_flash.h"/>
+            <file name="nvm3_lock.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/nvm3/inc/nvm3_lock.h"/>
+            <file name="nvm3_default.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/nvm3/inc/nvm3_default.h"/>
+          </folder>
+          <folder name="lib">
+            <file name="libnvm3_CM4_gcc.a" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/nvm3/lib/libnvm3_CM4_gcc.a"/>
+          </folder>
+        </folder>
+        <folder name="gpiointerrupt">
+          <folder name="src">
+            <file name="gpiointerrupt.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/gpiointerrupt/src/gpiointerrupt.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="gpiointerrupt.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/gpiointerrupt/inc/gpiointerrupt.h"/>
+          </folder>
+        </folder>
+        <folder name="common">
+          <folder name="inc">
+            <file name="ecode.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emdrv/common/inc/ecode.h"/>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="emlib">
+        <folder name="inc">
+          <file name="em_chip.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_chip.h"/>
+          <file name="em_cmu.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_cmu.h"/>
+          <file name="em_cmu_compat.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_cmu_compat.h"/>
+          <file name="em_system.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_system.h"/>
+          <file name="em_msc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_msc.h"/>
+          <file name="em_msc_compat.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_msc_compat.h"/>
+          <file name="em_usart.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_usart.h"/>
+          <file name="em_gpio.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_gpio.h"/>
+          <file name="em_emu.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_emu.h"/>
+          <file name="em_assert.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_assert.h"/>
+          <file name="em_bus.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_bus.h"/>
+          <file name="em_common.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_common.h"/>
+          <file name="em_ramfunc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_ramfunc.h"/>
+          <file name="em_version.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_version.h"/>
+          <file name="em_core.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/inc/em_core.h"/>
+        </folder>
+        <folder name="src">
+          <file name="em_cmu.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_cmu.c"/>
+          <file name="em_system.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_system.c"/>
+          <file name="em_msc.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_msc.c"/>
+          <file name="em_usart.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_usart.c"/>
+          <file name="em_gpio.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_gpio.c"/>
+          <file name="em_emu.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_emu.c"/>
+          <file name="em_assert.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_assert.c"/>
+          <file name="em_core.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/emlib/src/em_core.c"/>
+        </folder>
+      </folder>
+      <folder name="radio">
+        <folder name="rail_lib">
+          <folder name="plugin">
+            <folder name="rail_util_pti">
+              <file name="sl_rail_util_pti.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.c"/>
+              <file name="sl_rail_util_pti.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.h"/>
+            </folder>
+            <folder name="rail_util_rssi">
+              <file name="sl_rail_util_rssi.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/rail_util_rssi/sl_rail_util_rssi.c"/>
+              <file name="sl_rail_util_rssi.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/rail_util_rssi/sl_rail_util_rssi.h"/>
+            </folder>
+            <folder name="pa-conversions">
+              <folder name="efr32xg1x">
+                <file name="sl_rail_util_pa_curves.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/pa-conversions/efr32xg1x/sl_rail_util_pa_curves.h"/>
+              </folder>
+              <file name="pa_conversions_efr32.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/pa-conversions/pa_conversions_efr32.c"/>
+              <file name="pa_curves_efr32.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/pa-conversions/pa_curves_efr32.c"/>
+              <file name="pa_conversions_efr32.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/pa-conversions/pa_conversions_efr32.h"/>
+              <file name="pa_curve_types_efr32.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/pa-conversions/pa_curve_types_efr32.h"/>
+              <file name="pa_curves_efr32.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/pa-conversions/pa_curves_efr32.h"/>
+            </folder>
+            <folder name="rail_util_protocol">
+              <file name="sl_rail_util_protocol.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/rail_util_protocol/sl_rail_util_protocol.c"/>
+              <file name="sl_rail_util_protocol.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/rail_util_protocol/sl_rail_util_protocol.h"/>
+              <file name="sl_rail_util_protocol_types.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/rail_util_protocol/sl_rail_util_protocol_types.h"/>
+            </folder>
+            <folder name="rail_util_callbacks">
+              <file name="sl_rail_util_callbacks.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/rail_util_callbacks/sl_rail_util_callbacks.h"/>
+              <file name="sli_rail_util_callbacks.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/plugin/rail_util_callbacks/sli_rail_util_callbacks.h"/>
+            </folder>
+          </folder>
+          <folder name="common">
+            <file name="rail.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/common/rail.h"/>
+            <file name="rail_assert_error_codes.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/common/rail_assert_error_codes.h"/>
+            <file name="rail_types.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/common/rail_types.h"/>
+            <file name="rail_features.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/common/rail_features.h"/>
+          </folder>
+          <folder name="protocol">
+            <folder name="ble">
+              <file name="rail_ble.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/protocol/ble/rail_ble.h"/>
+            </folder>
+            <folder name="ieee802154">
+              <file name="rail_ieee802154.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/protocol/ieee802154/rail_ieee802154.h"/>
+            </folder>
+            <folder name="zwave">
+              <file name="rail_zwave.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/protocol/zwave/rail_zwave.h"/>
+            </folder>
+            <folder name="mfm">
+              <file name="rail_mfm.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/protocol/mfm/rail_mfm.h"/>
+            </folder>
+          </folder>
+          <folder name="chip">
+            <folder name="efr32">
+              <folder name="efr32xg1x">
+                <file name="rail_chip_specific.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/chip/efr32/efr32xg1x/rail_chip_specific.h"/>
+              </folder>
+            </folder>
+          </folder>
+          <folder name="autogen">
+            <folder name="librail_release">
+              <file name="librail_efr32xg14_gcc_release.a" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/radio/rail_lib/autogen/librail_release/librail_efr32xg14_gcc_release.a"/>
+            </folder>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="Device">
+        <folder name="SiliconLabs">
+          <folder name="EFR32FG14P">
+            <folder name="Source">
+              <folder name="GCC">
+                <file name="startup_efr32fg14p.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Source/GCC/startup_efr32fg14p.c"/>
+              </folder>
+              <file name="system_efr32fg14p.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Source/system_efr32fg14p.c"/>
+            </folder>
+            <folder name="Include">
+              <file name="efr32fg14p233f256gm48.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p233f256gm48.h"/>
+              <file name="efr32fg14p_acmp.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_acmp.h"/>
+              <file name="efr32fg14p_adc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_adc.h"/>
+              <file name="efr32fg14p_af_pins.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_af_pins.h"/>
+              <file name="efr32fg14p_af_ports.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_af_ports.h"/>
+              <file name="efr32fg14p_cmu.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_cmu.h"/>
+              <file name="efr32fg14p_cryotimer.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_cryotimer.h"/>
+              <file name="efr32fg14p_crypto.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_crypto.h"/>
+              <file name="efr32fg14p_devinfo.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_devinfo.h"/>
+              <file name="efr32fg14p_dma_descriptor.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_dma_descriptor.h"/>
+              <file name="efr32fg14p_dmareq.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_dmareq.h"/>
+              <file name="efr32fg14p_emu.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_emu.h"/>
+              <file name="efr32fg14p_fpueh.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_fpueh.h"/>
+              <file name="efr32fg14p_gpcrc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_gpcrc.h"/>
+              <file name="efr32fg14p_gpio.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_gpio.h"/>
+              <file name="efr32fg14p_gpio_p.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_gpio_p.h"/>
+              <file name="efr32fg14p_i2c.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_i2c.h"/>
+              <file name="efr32fg14p_idac.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_idac.h"/>
+              <file name="efr32fg14p_ldma.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_ldma.h"/>
+              <file name="efr32fg14p_ldma_ch.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_ldma_ch.h"/>
+              <file name="efr32fg14p_lesense.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_lesense.h"/>
+              <file name="efr32fg14p_lesense_buf.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_lesense_buf.h"/>
+              <file name="efr32fg14p_lesense_ch.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_lesense_ch.h"/>
+              <file name="efr32fg14p_lesense_st.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_lesense_st.h"/>
+              <file name="efr32fg14p_letimer.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_letimer.h"/>
+              <file name="efr32fg14p_leuart.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_leuart.h"/>
+              <file name="efr32fg14p_msc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_msc.h"/>
+              <file name="efr32fg14p_pcnt.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_pcnt.h"/>
+              <file name="efr32fg14p_prs.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_prs.h"/>
+              <file name="efr32fg14p_prs_ch.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_prs_ch.h"/>
+              <file name="efr32fg14p_prs_signals.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_prs_signals.h"/>
+              <file name="efr32fg14p_rmu.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_rmu.h"/>
+              <file name="efr32fg14p_romtable.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_romtable.h"/>
+              <file name="efr32fg14p_rtc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_rtc.h"/>
+              <file name="efr32fg14p_rtc_comp.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_rtc_comp.h"/>
+              <file name="efr32fg14p_rtcc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_rtcc.h"/>
+              <file name="efr32fg14p_rtcc_cc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_rtcc_cc.h"/>
+              <file name="efr32fg14p_rtcc_ret.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_rtcc_ret.h"/>
+              <file name="efr32fg14p_smu.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_smu.h"/>
+              <file name="efr32fg14p_timer.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_timer.h"/>
+              <file name="efr32fg14p_timer_cc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_timer_cc.h"/>
+              <file name="efr32fg14p_trng.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_trng.h"/>
+              <file name="efr32fg14p_usart.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_usart.h"/>
+              <file name="efr32fg14p_vdac.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_vdac.h"/>
+              <file name="efr32fg14p_vdac_opa.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_vdac_opa.h"/>
+              <file name="efr32fg14p_wdog.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_wdog.h"/>
+              <file name="efr32fg14p_wdog_pch.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/efr32fg14p_wdog_pch.h"/>
+              <file name="em_device.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/em_device.h"/>
+              <file name="system_efr32fg14p.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/Device/SiliconLabs/EFR32FG14P/Include/system_efr32fg14p.h"/>
+            </folder>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="driver">
+        <folder name="button">
+          <folder name="src">
+            <file name="sl_button.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/driver/button/src/sl_button.c"/>
+            <file name="sl_simple_button.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/driver/button/src/sl_simple_button.c"/>
+          </folder>
+          <folder name="inc">
+            <file name="sl_button.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/driver/button/inc/sl_button.h"/>
+            <file name="sl_simple_button.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/driver/button/inc/sl_simple_button.h"/>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="CMSIS">
+        <folder name="Include">
+          <file name="arm_common_tables.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/arm_common_tables.h"/>
+          <file name="arm_const_structs.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/arm_const_structs.h"/>
+          <file name="arm_math.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/arm_math.h"/>
+          <file name="cmsis_compiler.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/cmsis_compiler.h"/>
+          <file name="cmsis_version.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/cmsis_version.h"/>
+          <file name="cmsis_gcc.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/cmsis_gcc.h"/>
+          <file name="core_cm4.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/core_cm4.h"/>
+          <file name="mpu_armv7.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/platform/CMSIS/Include/mpu_armv7.h"/>
+        </folder>
+      </folder>
+    </folder>
+    <folder name="hardware">
+      <folder name="driver">
+        <folder name="mx25_flash_shutdown">
+          <folder name="src">
+            <folder name="sl_mx25_flash_shutdown_usart">
+              <file name="sl_mx25_flash_shutdown.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/driver/mx25_flash_shutdown/src/sl_mx25_flash_shutdown_usart/sl_mx25_flash_shutdown.c"/>
+            </folder>
+          </folder>
+          <folder name="inc">
+            <folder name="sl_mx25_flash_shutdown_usart">
+              <file name="sl_mx25_flash_shutdown.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/driver/mx25_flash_shutdown/inc/sl_mx25_flash_shutdown_usart/sl_mx25_flash_shutdown.h"/>
+            </folder>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="board">
+        <folder name="src">
+          <file name="sl_board_init.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/board/src/sl_board_init.c"/>
+          <file name="sl_board_control_gpio.c" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/board/src/sl_board_control_gpio.c"/>
+        </folder>
+        <folder name="inc">
+          <file name="sl_board_control.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/board/inc/sl_board_control.h"/>
+          <file name="sl_board_init.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/hardware/board/inc/sl_board_init.h"/>
+        </folder>
+      </folder>
+    </folder>
+    <folder name="app">
+      <folder name="flex">
+        <folder name="component">
+          <folder name="common">
+            <folder name="sl_flex_assert">
+              <file name="sl_flex_assert.h" uri="file:///Applications/Simplicity%20Studio.app/Contents/Eclipse/developer/sdks/gecko_sdk_suite/v3.1/app/flex/component/common/sl_flex_assert/sl_flex_assert.h"/>
+            </folder>
+          </folder>
+        </folder>
+      </folder>
+    </folder>
+  </folder>
+  <file name="main.c" linked="false" uri="file:///Users/stcoorem/SimplicityStudio/v5_workspace/somfy_rts_receiver/main.c"/>
+  <file name="app_init.c" linked="false" uri="file:///Users/stcoorem/SimplicityStudio/v5_workspace/somfy_rts_receiver/app_init.c"/>
+  <file name="app_process.c" linked="false" uri="file:///Users/stcoorem/SimplicityStudio/v5_workspace/somfy_rts_receiver/app_process.c"/>
+  <file name="app_init.h" linked="false" uri="file:///Users/stcoorem/SimplicityStudio/v5_workspace/somfy_rts_receiver/app_init.h"/>
+  <file name="app_process.h" linked="false" uri="file:///Users/stcoorem/SimplicityStudio/v5_workspace/somfy_rts_receiver/app_process.h"/>
+  <includePath uri="studio:/project/"/>
+  <includePath uri="studio:/sdk/platform/common/toolchain/inc"/>
+  <includePath uri="studio:/sdk/hardware/driver/mx25_flash_shutdown/inc/sl_mx25_flash_shutdown_usart"/>
+  <includePath uri="studio:/sdk/platform/service/iostream/inc"/>
+  <includePath uri="studio:/sdk/platform/emdrv/nvm3/inc"/>
+  <includePath uri="studio:/sdk/platform/service/device_init/inc"/>
+  <includePath uri="studio:/sdk/platform/common/inc"/>
+  <includePath uri="studio:/sdk/platform/service/mpu/inc"/>
+  <includePath uri="studio:/sdk/platform/emlib/inc"/>
+  <includePath uri="studio:/sdk/platform/service/system/inc"/>
+  <includePath uri="studio:/sdk/platform/emdrv/gpiointerrupt/inc"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/plugin/rail_util_pti"/>
+  <includePath uri="studio:/sdk/platform/emdrv/common/inc"/>
+  <includePath uri="studio:/sdk/platform/service/udelay/inc"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/plugin/rail_util_rssi"/>
+  <includePath uri="studio:/sdk/hardware/board/inc"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/common"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/protocol/ble"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/protocol/ieee802154"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/protocol/zwave"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/protocol/mfm"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/chip/efr32/efr32xg1x"/>
+  <includePath uri="studio:/sdk/app/flex/component/common/sl_flex_assert"/>
+  <includePath uri="studio:/sdk/platform/Device/SiliconLabs/EFR32FG14P/Include"/>
+  <includePath uri="studio:/sdk/platform/driver/button/inc"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/plugin/pa-conversions"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/plugin/pa-conversions/efr32xg1x"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/plugin/rail_util_protocol"/>
+  <includePath uri="studio:/sdk/platform/CMSIS/Include"/>
+  <includePath uri="studio:/sdk/platform/radio/rail_lib/plugin/rail_util_callbacks"/>
+  <macroDefinition name="SL_RAIL_LIB_MULTIPROTOCOL_SUPPORT" value="0"/>
+  <macroDefinition name="EFR32FG14P233F256GM48"/>
+  <macroDefinition name="SL_COMPONENT_CATALOG_PRESENT"/>
+  <macroDefinition name="SL_RAIL_UTIL_PA_CONFIG_HEADER" value="&lt;sl_rail_util_pa_config.h>"/>
+  <libraryFile uri="studio:/sdk/platform/emdrv/nvm3/lib/libnvm3_CM4_gcc.a"/>
+  <libraryFile uri="studio:/sdk/platform/radio/rail_lib/autogen/librail_release/librail_efr32xg14_gcc_release.a"/>
+  <libraryFile name="gcc"/>
+  <libraryFile name="c"/>
+  <libraryFile name="m"/>
+  <libraryFile name="nosys"/>
+  <toolOption toolId="makefile.arm.gcc.linker" optionId="misc">
+    <toolListOption value="-Wl,--gc-sections"/>
+    <toolListOption value="-Xlinker -Map=$(OUTPUT_DIR)/$(PROJECTNAME).map"/>
+  </toolOption>
+  <toolOption toolId="makefile.arm.gcc.compiler" optionId="misc">
+    <toolListOption value="--specs=nano.specs"/>
+    <toolListOption value="-g"/>
+  </toolOption>
+  <toolOption toolId="studio.ide.project" optionId="device_opn" value="efr32fg14p233f256gm48"/>
+  <toolOption toolId="makefile.arm.gcc.assembler" optionId="misc">
+    <toolListOption value="-x assembler-with-cpp"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.circulardependency" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.nostdlibs" value="false"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.circulardependency" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.gnu.c.compiler.option.misc.otherlist">
+    <toolListOption value="-c"/>
+    <toolListOption value="-fmessage-length=0"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.gnu.cpp.compiler.option.misc.otherlist">
+    <toolListOption value="-c"/>
+    <toolListOption value="-fmessage-length=0"/>
+  </toolOption>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.optimization" value="debug"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.preinclude">
+    <toolListOption value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="toolOption.uc.assembler" optionId="toolOption.uc.assembler.preinclude">
+    <toolListOption value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.function_sections" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.data_sections" value="true"/>
+  <toolOption toolId="toolOption.uc.linker" optionId="toolOption.uc.linker.nano_c_libs" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.omit_frame_pointer" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.no_exceptions" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.no_rtti" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.no_builtin" value="true"/>
+  <toolOption toolId="toolOption.uc.toolchain" optionId="toolOption.uc.toolchain.cpu" value="cortex-m4"/>
+  <toolOption toolId="toolOption.uc.toolchain" optionId="toolOption.uc.toolchain.fpu" value="fpv4-sp"/>
+  <toolOption toolId="toolOption.uc.toolchain" optionId="toolOption.uc.toolchain.float_abi" value="softfp"/>
+  <toolOption toolId="toolOption.uc.linker" optionId="toolOption.uc.linker.linkerScript" value="$project/autogen/linkerfile.ld"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.c_standard" value="c99"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.cxx_standard" value="c++11"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.all" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.extra" value="true"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.pedantic" value="false"/>
+  <toolOption toolId="toolOption.uc.compiler" optionId="toolOption.uc.compiler.warnings.are_errors" value="false"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.floatingpoint.enable" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.floatingpoint.enable" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.floatingpoint.enable" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.floatingpoint.type" value="floatingpoint.type.softfp"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.floatingpoint.enable" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.floatingpoint.enable" value="true"/>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.assembler.preinclude">
+    <toolListOption builtin="true" value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.preinclude">
+    <toolListOption builtin="true" value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.preinclude">
+    <toolListOption builtin="true" value="sl_gcc_preinclude.h"/>
+  </toolOption>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.misc.dialect" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.misc.dialect.c99"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.misc.dialect" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.misc.dialect.cpp0x"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.no_rtti" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.no_exceptions" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.debug.builtin" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.debug.builtin" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.level" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.level.debug"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.level" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.level.debug"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.datasect" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.datasect" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.functionsects" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.functionsects" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.optimization.omitframepointer" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.optimization.omitframepointer" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.allwarn" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.allwarn" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.extrawarn" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.extrawarn" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.toerrors" value="false"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.toerrors" value="false"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.compiler.base" optionId="gnu.c.compiler.option.warnings.pedantic" value="false"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.compiler.base" optionId="gnu.cpp.compiler.option.warnings.pedantic" value="false"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.toolchain.exe" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.script" value="${workspace_loc:/${ProjName}}/autogen/linkerfile.ld"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.toolchain.exe" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.usescript" value="true"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.clibs" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.nanospec"/>
+  <toolOption builtin="true" toolId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.base" optionId="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.cpp.linker.clibs" value="com.silabs.ide.si32.gcc.cdt.managedbuild.tool.gnu.c.linker.nanospec"/>
+</project>

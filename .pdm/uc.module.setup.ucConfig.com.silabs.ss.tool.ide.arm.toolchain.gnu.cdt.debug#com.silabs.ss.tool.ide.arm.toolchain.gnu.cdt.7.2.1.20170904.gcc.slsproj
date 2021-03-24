@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="uc.module.setup.ucConfig.com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt.debug#com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt:7.2.1.20170904.gcc" propertyScope="project">
+  <folder name="config">
+    <folder name="rail">
+      <file name="long_range_profile.restriction" uri="studio:/project/config/rail/long_range_profile.restriction"/>
+      <file name="radio_settings.radioconf" uri="studio:/project/config/rail/radio_settings.radioconf"/>
+      <file name="base_profile.restriction" uri="studio:/project/config/rail/base_profile.restriction"/>
+    </folder>
+    <file name="sl_memory_config.h" uri="studio:/project/config/sl_memory_config.h"/>
+    <file name="sl_mx25_flash_shutdown_usart_config.h" uri="studio:/project/config/sl_mx25_flash_shutdown_usart_config.h"/>
+    <file name="sl_simple_button_btn0_config.h" uri="studio:/project/config/sl_simple_button_btn0_config.h"/>
+    <file name="sl_simple_button_btn1_config.h" generated="true" uri="studio:/project/config/sl_simple_button_btn1_config.h"/>
+    <file name="sl_device_init_dcdc_config.h" uri="studio:/project/config/sl_device_init_dcdc_config.h"/>
+    <file name="sl_device_init_lfxo_config.h" uri="studio:/project/config/sl_device_init_lfxo_config.h"/>
+    <file name="sl_rail_util_pti_config.h" uri="studio:/project/config/sl_rail_util_pti_config.h"/>
+    <file name="nvm3_default_config.h" uri="studio:/project/config/nvm3_default_config.h"/>
+    <file name="sl_rail_util_rssi_config.h" uri="studio:/project/config/sl_rail_util_rssi_config.h"/>
+    <file name="sl_board_control_config.h" uri="studio:/project/config/sl_board_control_config.h"/>
+    <file name="sl_flex_assert_config.h" uri="studio:/project/config/sl_flex_assert_config.h"/>
+    <file name="sl_iostream_usart_vcom_config.h" uri="studio:/project/config/sl_iostream_usart_vcom_config.h"/>
+    <file name="sl_device_init_emu_config.h" uri="studio:/project/config/sl_device_init_emu_config.h"/>
+    <file name="sl_rail_util_init_inst0_config.h" uri="studio:/project/config/sl_rail_util_init_inst0_config.h"/>
+    <file name="sl_device_init_hfxo_config.h" uri="studio:/project/config/sl_device_init_hfxo_config.h"/>
+    <file name="sl_rail_util_pa_config.h" uri="studio:/project/config/sl_rail_util_pa_config.h"/>
+    <file name="sl_rail_util_protocol_config.h" uri="studio:/project/config/sl_rail_util_protocol_config.h"/>
+    <file name="sl_simple_button_config.h" uri="studio:/project/config/sl_simple_button_config.h"/>
+  </folder>
+  <includePath uri="studio:/project/config/"/>
+</project>
